@@ -1,0 +1,88 @@
+    
+    table{
+        width: 100%;
+    }
+    h2{
+        margin: 0%;
+    }
+    .laranja{
+        height: 5%;
+        width: 8vh;
+        border: 3px solid black;
+        text-align: center;
+        background-color: rgb(219, 146, 9);
+    }
+    .musgo{
+        height: 5%;
+        width: 8vh;
+        border: 3px solid black;
+        text-align: center;
+        background-color: rgb(145, 218, 37);
+    }
+    .verde{
+        height: 5%;
+        width: 8vh;
+        border: 3px solid black;
+        text-align: center;
+        background-color:green;
+    }
+    .azul_cinza{
+        height: 5%;
+        width: 8vh;
+        border: 3px solid black;
+        text-align: center;
+        background-color:rgba(132, 132, 247, 0.411);
+    }
+    .ciano{
+        height: 5%;
+        width: 8vh;
+        border: 3px solid black;
+        text-align: center;
+        background-color:rgb(70, 221, 226);
+    }
+    .rosa{
+        height: 5%;
+        width: 8vh;
+        border: 3px solid black;
+        text-align: center;
+        background-color:palevioletred;
+    }
+    .amarelo{
+        height: 5%;
+        width: 8vh;
+        border: 3px solid black;
+        text-align: center;
+        background-color:yellow;
+    }
+    .azul_escuro{
+        height: 5%;
+        width: 8vh;
+        border: 3px solid black;
+        text-align: center;
+        background-color:blue;
+    }
+    .azul_feio{
+        height: 5%;
+        width: 8vh;
+        border: 3px solid black;
+        text-align: center;
+        background-color:rgb(53, 53, 163);
+    }
+    .rosa_feio{
+        height: 5%;
+        width: 8vh;
+        border: 3px solid black;
+        text-align: center;
+        background-color:rgb(168, 20, 161);
+    }
+    div{
+        text-align: left;
+    }
+.quadrado{width: 20px;height: 20px; margin-left: auto;}
+.quadrado{width: 20px;height: 20px; margin-left: auto;}
+.quadrado{width: 20px;height: 20px; margin-left: auto;}
+.quadrado{width: 20px;height: 20px; margin-left: auto;}
+.quadrado{width: 20px;height: 20px; margin-left: auto;}
+.quadrado{width: 20px;height: 20px; margin-left: auto;}
+.quadrado{width: 20px;height: 20px; margin-left: auto;}
+.quadrado{width: 20px;height: 20px; margin-left: auto;}
